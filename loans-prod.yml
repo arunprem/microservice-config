@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: 1.0
+
+loans:
+  message: "Welcome to My Bank Loans related prod APIs"
+  contactDetails:
+    name: "Arunprem"
+    email: "arun.612675@kerala.gov.in"
+  onCallSupport:
+    - "9495205259"
+    - "1234567890"

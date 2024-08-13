@@ -1,0 +1,16 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: 2.0
+
+loans:
+  message: "Welcome to My Bank Loans related qa APIs"
+  contactDetails:
+    name: "Arunprem"
+    email: "arun.612675@kerala.gov.in"
+  onCallSupport:
+    - "9495205259"
+    - "1234567890"

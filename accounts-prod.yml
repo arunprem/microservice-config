@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+build:
+  version: 1.0
+
+accounts:
+  message: "Welcome to My Bank Accounts related prod APIs"
+  contactDetails:
+    name: "Arunprem"
+    email: "arun.612675@kerala.gov.in"
+  onCallSupport:
+    -9495205259

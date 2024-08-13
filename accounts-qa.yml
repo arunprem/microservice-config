@@ -1,0 +1,14 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+build:
+  version: 2.0
+
+accounts:
+  message: "Welcome to My Bank Accounts related QA APIs"
+  contactDetails:
+    name: "Arunprem"
+    email: "arun.612675@kerala.gov.in"
+  onCallSupport:
+    -9495205259
