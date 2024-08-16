@@ -21,7 +21,7 @@ spring:
       - "accounts-prod.yml"
   profiles:
     active:
-      - "qa"
+      - "default"
 build:
   version: 3.0
 
