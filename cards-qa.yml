@@ -8,7 +8,7 @@ build:
 cards:
   message: "Welcome to My Bank Cards related qa APIs"
   contactDetails:
-    name: "Arunprem"
+    name: "Arunp"
     email: "arun.612675@kerala.gov.in"
   onCallSupport:
     - "9495205259"
