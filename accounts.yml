@@ -26,7 +26,7 @@ build:
   version: 3.0
 
 accounts:
-  message: "Welcome to My Bank Accounts related local APIs"
+  message: "Welcome to My Bank Accounts related local advfsd APIs"
   contactDetails:
     name: "Arunprem"
     email: "arun.612675@kerala.gov.in"
