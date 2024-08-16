@@ -9,6 +9,6 @@ accounts:
   message: "Welcome to My Bank Accounts related prod APIs"
   contactDetails:
     name: "Arunprem"
-    email: "64398b1ba60a8117820fc5b4985002aa5ba49ce27845992e3a02ee9f6210cac6371c91e0656e9be3463c7920de9d48b5"
+    email: "{cipher}64398b1ba60a8117820fc5b4985002aa5ba49ce27845992e3a02ee9f6210cac6371c91e0656e9be3463c7920de9d48b5"
   onCallSupport:
     -9495205259
