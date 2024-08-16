@@ -6,7 +6,7 @@ build:
   version: 1.0
 
 accounts:
-  message: "Welcome to My Bank Accounts related webhooks asgdsfsfsdf APIs"
+  message: "Welcome to My Bank Accounts related prod APIs"
   contactDetails:
     name: "Arunprem"
     email: "{cipher}a2f1e6d2f59d66c6f09e95e7496080f5f2eed88dca4c0d0ba8b9b57517021274552b47dc556d516e580bbf11ef0a90d9"
